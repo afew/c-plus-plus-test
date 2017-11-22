@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libktxtest", "libktxtest.vcxproj", "{6A8D16ED-6FC5-471D-B8E2-4626523B4353}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libktx", "..\build\vc9\libktx\libktx.vcxproj", "{133E3583-502F-42ED-8134-273E9AC3F087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug GL|Win32 = Debug GL|Win32
+		Debug GLES1|Win32 = Debug GLES1|Win32
+		Debug GLES2|Win32 = Debug GLES2|Win32
+		Debug GLES3|Win32 = Debug GLES3|Win32
+		Debug|Win32 = Debug|Win32
+		Release GL|Win32 = Release GL|Win32
+		Release GLES1|Win32 = Release GLES1|Win32
+		Release GLES2|Win32 = Release GLES2|Win32
+		Release GLES3|Win32 = Release GLES3|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GL|Win32.ActiveCfg = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GL|Win32.Build.0 = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GLES1|Win32.ActiveCfg = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GLES1|Win32.Build.0 = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GLES2|Win32.ActiveCfg = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GLES2|Win32.Build.0 = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GLES3|Win32.ActiveCfg = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug GLES3|Win32.Build.0 = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Debug|Win32.Build.0 = Debug|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GL|Win32.ActiveCfg = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GL|Win32.Build.0 = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GLES1|Win32.ActiveCfg = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GLES1|Win32.Build.0 = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GLES2|Win32.ActiveCfg = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GLES2|Win32.Build.0 = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GLES3|Win32.ActiveCfg = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release GLES3|Win32.Build.0 = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release|Win32.ActiveCfg = Release|Win32
+		{6A8D16ED-6FC5-471D-B8E2-4626523B4353}.Release|Win32.Build.0 = Release|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GL|Win32.ActiveCfg = Debug GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GL|Win32.Build.0 = Debug GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GLES1|Win32.ActiveCfg = Debug GLES1|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GLES1|Win32.Build.0 = Debug GLES1|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GLES2|Win32.ActiveCfg = Debug GLES2|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GLES2|Win32.Build.0 = Debug GLES2|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GLES3|Win32.ActiveCfg = Debug GLES3|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug GLES3|Win32.Build.0 = Debug GLES3|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug|Win32.ActiveCfg = Debug GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Debug|Win32.Build.0 = Debug GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GL|Win32.ActiveCfg = Release GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GL|Win32.Build.0 = Release GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GLES1|Win32.ActiveCfg = Release GLES1|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GLES1|Win32.Build.0 = Release GLES1|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GLES2|Win32.ActiveCfg = Release GLES2|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GLES2|Win32.Build.0 = Release GLES2|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GLES3|Win32.ActiveCfg = Release GLES3|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release GLES3|Win32.Build.0 = Release GLES3|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release|Win32.ActiveCfg = Release GL|Win32
+		{133E3583-502F-42ED-8134-273E9AC3F087}.Release|Win32.Build.0 = Release GL|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
