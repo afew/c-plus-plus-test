@@ -1,4 +1,4 @@
-
+﻿
 #include "static_member.h"
 
 

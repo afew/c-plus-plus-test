@@ -1,4 +1,4 @@
-#ifndef _Static_Member_H_
+﻿#ifndef _Static_Member_H_
 #define _Static_Member_H_
 
 struct TStaticMember
